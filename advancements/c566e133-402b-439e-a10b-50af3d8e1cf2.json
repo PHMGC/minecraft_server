@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "ae2:main/compass": {
+    "criteria": {
+      "compass": "2023-01-24 02:07:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2023-01-20 00:28:02 -0300"
@@ -865,6 +871,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/blocks/crank": {
+    "criteria": {
+      "has_stick": "2023-01-24 01:52:09 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2023-01-20 00:16:50 -0300"
@@ -1294,6 +1306,12 @@
   "create:recipes/create.palettes/polished_cut_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2023-01-21 16:24:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2023-01-24 02:11:47 -0300"
     },
     "done": true
   },
@@ -2218,6 +2236,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2023-01-21 19:19:33 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/decorative/light_detector": {
+    "criteria": {
+      "has_iron_ingot": "2023-01-24 01:52:07 -0300"
     },
     "done": true
   },
@@ -3378,6 +3402,12 @@
   "create:recipes/create.base/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2023-01-23 17:21:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2023-01-24 02:41:24 -0300"
     },
     "done": true
   },
