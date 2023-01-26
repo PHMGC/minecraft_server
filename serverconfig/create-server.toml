@@ -500,17 +500,17 @@
 		#[in Blocks/Second]
 		#The top speed of any assembled Train.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		trainTopSpeed = 28.0
+		trainTopSpeed = 35.0
 		#.
 		#[in Blocks/Second]
 		#The top speed of Trains during a turn.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		trainTurningTopSpeed = 14.0
+		trainTurningTopSpeed = 30.0
 		#.
 		#[in Blocks/Second²]
 		#The acceleration of any assembled Train.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		trainAcceleration = 3.0
+		trainAcceleration = 5.0
 
 	#.
 	#Powered Trains
