@@ -2047,6 +2047,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2023-01-26 19:23:22 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2023-01-19 23:01:24 -0300"
@@ -2610,6 +2616,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2023-01-20 00:26:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2023-01-26 19:23:22 -0300"
     },
     "done": true
   },
@@ -3423,6 +3435,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cells/item_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2023-01-26 19:23:22 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2023-01-21 16:24:01 -0300"
@@ -3666,6 +3684,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2023-01-19 23:27:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2023-01-26 18:12:46 -0300"
     },
     "done": true
   },
@@ -4080,6 +4104,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2023-01-20 01:28:12 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2023-01-26 19:23:22 -0300"
     },
     "done": true
   },

@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_red": {
+    "criteria": {
+      "has_dyes/black": "2023-01-26 19:15:02 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2023-01-22 18:10:58 -0300"
@@ -494,6 +500,12 @@
   "create:recipes/create.base/crafting/kinetics/sequenced_gearshift": {
     "criteria": {
       "has_item": "2023-01-22 18:36:01 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_green": {
+    "criteria": {
+      "has_dyes/black": "2023-01-26 19:15:02 -0300"
     },
     "done": true
   },
@@ -1560,6 +1572,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_lime": {
+    "criteria": {
+      "has_dyes/black": "2023-01-26 19:18:15 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/red_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2023-01-23 00:30:02 -0300"
@@ -1968,6 +1986,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/glass_green": {
+    "criteria": {
+      "has_dyes/black": "2023-01-26 19:15:02 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2023-01-21 18:07:50 -0300"
@@ -2169,6 +2193,12 @@
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2023-01-18 22:25:38 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/glass_lime": {
+    "criteria": {
+      "has_dyes/black": "2023-01-26 19:18:15 -0300"
     },
     "done": true
   },
@@ -2568,6 +2598,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/glass_red": {
+    "criteria": {
+      "has_dyes/black": "2023-01-26 19:15:02 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_candle": {
     "criteria": {
       "has_lime_dye": "2023-01-22 15:45:37 -0300"
@@ -2661,6 +2697,12 @@
   "create:rose_quartz": {
     "criteria": {
       "0": "2023-01-22 19:13:19 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_lime": {
+    "criteria": {
+      "has_dyes/black": "2023-01-26 19:18:15 -0300"
     },
     "done": true
   },
@@ -3323,6 +3365,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_dyes/black": "2023-01-26 19:15:02 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2023-01-22 17:58:43 -0300"
@@ -3834,6 +3882,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_red": {
+    "criteria": {
+      "has_dyes/black": "2023-01-26 19:15:02 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2023-01-18 22:26:58 -0300"
@@ -3924,6 +3978,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_green": {
+    "criteria": {
+      "has_dyes/black": "2023-01-26 19:15:02 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2023-01-22 18:20:42 -0300"
@@ -3993,6 +4053,12 @@
   "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2023-01-21 18:15:59 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_green": {
+    "criteria": {
+      "has_dyes/black": "2023-01-26 19:15:02 -0300"
     },
     "done": true
   },
@@ -4398,6 +4464,12 @@
   "create:recipes/create.palettes/cut_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-01-21 18:03:54 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_lime": {
+    "criteria": {
+      "has_dyes/black": "2023-01-26 19:18:15 -0300"
     },
     "done": true
   },
