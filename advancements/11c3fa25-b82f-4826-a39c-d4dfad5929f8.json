@@ -2586,6 +2586,12 @@
     },
     "done": true
   },
+  "create:funnel": {
+    "criteria": {
+      "0": "2023-01-26 20:31:20 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2023-01-21 18:06:50 -0300"
@@ -2685,6 +2691,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2023-01-21 18:42:28 -0300"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2023-01-26 19:57:35 -0300"
     },
     "done": true
   },
@@ -3776,6 +3788,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-01-19 00:07:42 -0300"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2023-01-26 20:31:20 -0300"
     },
     "done": true
   },
