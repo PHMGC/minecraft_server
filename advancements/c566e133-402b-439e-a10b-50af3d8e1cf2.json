@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2023-01-27 17:15:38 -0300"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2023-01-18 23:12:31 -0300"
@@ -2942,6 +2948,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2023-01-22 22:37:20 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2023-01-27 17:15:08 -0300"
     },
     "done": true
   },
