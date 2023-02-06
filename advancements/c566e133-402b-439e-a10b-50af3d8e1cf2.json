@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
+    "criteria": {
+      "has_plank": "2023-02-05 21:52:02 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2023-01-18 23:13:17 -0300"
@@ -1463,6 +1469,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2023-02-05 21:45:09 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-01-19 00:24:07 -0300"
@@ -2126,6 +2138,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2023-01-21 16:51:56 -0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
+    "criteria": {
+      "has_plank": "2023-02-05 21:52:02 -0300"
     },
     "done": true
   },
@@ -3141,6 +3159,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2023-02-05 21:48:35 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/magenta_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2023-01-23 17:21:38 -0300"
@@ -3456,6 +3480,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2023-01-18 21:58:49 -0300",
+      "minecraft:river": "2023-02-05 21:40:45 -0300",
       "minecraft:grove": "2023-01-18 23:09:24 -0300",
       "minecraft:jagged_peaks": "2023-01-18 23:09:42 -0300",
       "minecraft:forest": "2023-01-18 23:10:42 -0300",
@@ -3600,6 +3625,12 @@
   "create:recipes/create.palettes/small_deepslate_brick_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2023-01-20 01:27:46 -0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/bar_panel": {
+    "criteria": {
+      "has_ingot": "2023-02-05 21:50:38 -0300"
     },
     "done": true
   },
